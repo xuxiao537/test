@@ -6,4 +6,9 @@ public class Test
   public void hit(){
     
     debug.log("hi...");
+  }
+  
+  public string name = "xuxuxux";
+  
+  
 }
